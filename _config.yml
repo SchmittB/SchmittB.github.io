@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Benjamin Schmitt
-  title: Data Scientist
+  title: Data Scientist student
   address: Paris, France
   email: schmitt.benjamin1@gmail.com
   link: http://ddbullfrog.com
@@ -57,17 +57,17 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: French
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: German
+      proficiency: Basic knowledge
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Python
       percentage: 100%
     - skill2:
       name: Bootstrap
