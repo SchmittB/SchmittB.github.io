@@ -1,7 +1,7 @@
 # Site settings
 title: Benjamin Schmitt's CV 
 description: SchmittB's CV
-favicon: /assets/img/avatar.JPG
+favicon: #/assets/img/avatar.JPG
 baseurl: https://SchmittB.github.io
 url: https://SchmittB.github.io
 rss_url: /pages/atom.xml
@@ -22,7 +22,7 @@ author:
   github: SchmittB
   linkedin: benjamin-schmitt-fr
   twitter: Bensch000
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: #/resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -39,31 +39,31 @@ author:
       title: Database project (Internship)
       started: 2016
       duration: (2016 - 2016)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Creation of a Database using SQL to manage costing of ongoing project. Communication with various engineers to understand the process of costing inside Airbus to simplify it. This project aim to have a better visibility of financial record inside Airbus. Secondary duty: Creation of an Excel file for skill management inside my unit. Excel macro using VBA.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: Data ScienceTech Institute
+      location: Paris, France
+      degree: Applied MSc
+      major: Data Science and AI
+      started: 2017
+      duration: (2017 - 2018)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - education2:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: ECAM Strasbourg-Europe
+      location: Strasbourg, France
+      degree: Master of Engineering
+      major: General Engineering
+      started: 2012
+      duration: (2012 - 2017)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
     - education3:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: University of Limerick
+      location: Limerick, Republic of Ireland
+      degree: Master of Engineering
+      major: Aeronautical Engineering
+      started: 2016
+      duration: (2016 - 2017)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
 
 languages:
@@ -72,7 +72,7 @@ languages:
       proficiency: Native speaker
     - language2:
       name: English
-      proficiency: highly proficient in spoken and written English
+      proficiency: highly proficient in spoken and written English. Lived 2 year in an English speaking country (Ireland then England).
     - language3:
       name: German
       proficiency: basic communication skills
