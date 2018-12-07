@@ -18,7 +18,7 @@ author:
   title: Data Scientist student
   address: Paris, France
   email: schmitt.benjamin1@gmail.com
-  link: http://ddbullfrog.com
+  link: 
   github: SchmittB
   linkedin: benjamin-schmitt-fr
   twitter: Bensch000
@@ -26,26 +26,19 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-    - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work1: 
+      company: Renault-Nissan Consulting UK
+      location: London, UK
+      title: Data Analyst
+      started: 2017
+      duration: (2017 - 2018)
+      description: The Data Analyst is a support role to help the consultant inside the Renault-Nissan group.The task consist on the creation and maintenance of Excel file for data visualisation and data storing. Extensive use of VBA for Excel. Database administration in MS Access and MS SharePoint 365.
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
+      company: Airbus Defense & Space
+      location: Bordeaux, France
+      title: Database project (Internship)
+      started: 2016
+      duration: (2016 - 2016)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
@@ -56,16 +49,33 @@ author:
       started: 2005
       duration: (2005 - 2009)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+    - education2:
+      organization: XXXXXX University
+      location: Shenyang, China
+      degree: Bachelor
+      major: Software Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
+    - education3:
+      organization: XXXXXX University
+      location: Shenyang, China
+      degree: Bachelor
+      major: Software Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description.
+
+languages:
     - language1:
       name: French
-      proficiency: Native
+      proficiency: Native speaker
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: highly proficient in spoken and written English
     - language3:
       name: German
-      proficiency: Basic knowledge
+      proficiency: basic communication skills
   programmingSkills:
     - skill1:
       name: Python
